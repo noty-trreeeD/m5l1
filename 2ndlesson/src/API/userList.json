@@ -1,0 +1,67 @@
+{
+  "userList": [
+    {
+      "id": 1,
+      "name": "Noty___",
+      "age": 19,
+      "city": "Sokuluk",
+      "active": true
+    },
+    {
+      "id": 2,
+      "name": "Asnurba",
+      "age": 19,
+      "city": "Bishkek",
+      "active": true
+    },
+    {
+      "id": 3,
+      "name": "Ysagawa",
+      "age": 20,
+      "city": "Kant",
+      "active": false
+    },
+    {
+      "id": 4,
+      "name": "Nima",
+      "age": 22,
+      "city": "Bishkek",
+      "active": false
+    },
+    {
+      "id": 5,
+      "name": "Mouflon",
+      "age": 18,
+      "city": "Kara-Balta",
+      "active": true
+    },
+    {
+      "id": 6,
+      "name": "Sakuga",
+      "age": 20,
+      "city": "Bishkek",
+      "active": false
+    },
+    {
+      "id": 7,
+      "name": "Slow",
+      "age": 21,
+      "city": "Bishkek",
+      "active": true
+    },
+    {
+      "id": 8,
+      "name": "Azikor",
+      "age": 20,
+      "city": "Bishkek",
+      "active": false
+    },
+    {
+      "id": 9,
+      "name": "Mifune",
+      "age": 23,
+      "city": "Bishkek",
+      "active": false
+    }
+  ]
+}
